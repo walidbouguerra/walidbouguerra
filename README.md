@@ -2,7 +2,7 @@
 
 # 👋 Bonjour, je suis Walid Bouguerra
 
-## Développeur Full Stack JS
+## 🖥 Développeur Full Stack JS
 
 ### 🎓 Diplômes :
 - BTS SIO SLAM
