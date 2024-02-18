@@ -5,7 +5,7 @@
 ## 🖥 Développeur Full Stack JS
 
 ### 🎓 Diplômes :
-- BTS SIO SLAM
+- BTS services informatiques aux organisations (SIO SLAM)
 - Titre professionnel Concepteur Développeur d'Applications
 
 ### 💻 Stack :
