@@ -5,8 +5,8 @@
 ## 🖥 Développeur Web Full Stack
 
 ### 🎓 Diplômes :
-- BTS services informatiques aux organisations (SIO SLAM)
 - Titre professionnel Concepteur Développeur d'Applications
+- BTS services informatiques aux organisations (SIO SLAM)
 
 ### 🌐 Contact :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/walid-bouguerra) 
