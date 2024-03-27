@@ -13,6 +13,9 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,java,mysql&theme=light)](https://skillicons.dev)
 
 ### 🌐 Contact :
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/walid-bouguerra) 
+#### Portfolio 
+[walidbouguerra.fr](http://walidbouguerra.fr)
+#### Réseau social
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)   
 
 
