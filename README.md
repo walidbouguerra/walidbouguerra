@@ -9,8 +9,8 @@
 - BTS services informatiques aux organisations (SIO SLAM)
 - Baccalauréat scientifique
 
-### Compétences : 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,java&theme=light)](https://skillicons.dev)
+### 🛠 Compétences : 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,java,mysql&theme=light)](https://skillicons.dev)
 
 ### 🌐 Contact :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/walid-bouguerra) 
