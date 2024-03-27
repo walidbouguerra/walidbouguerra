@@ -2,7 +2,7 @@
 
 # 👋 Bonjour, je suis Walid Bouguerra
 
-## 🖥 Développeur Web Full Stack
+## 🖥 Développeur Full Stack
 
 ### 🎓 Diplômes :
 - Titre professionnel Concepteur Développeur d'Applications
