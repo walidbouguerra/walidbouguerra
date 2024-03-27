@@ -7,7 +7,10 @@
 ### 🎓 Diplômes :
 - Titre professionnel Concepteur Développeur d'Applications  
 - BTS services informatiques aux organisations (SIO SLAM)
-- Baccalauréat scientifique  
+- Baccalauréat scientifique
+
+### Compétences : 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,java&theme=light)](https://skillicons.dev)
 
 ### 🌐 Contact :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/walid-bouguerra) 
