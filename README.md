@@ -13,6 +13,6 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,java,mysql&theme=light)](https://skillicons.dev)
 
 ### 🌐 Contact :
-[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2)](https://walidbouguerra.fr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walid-bouguerra/)   
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walid-bouguerra/) [![Portfolio](https://img.shields.io/badge/Portfolio-grey?logo=googlechrome&logoColor=white)](https://walidbouguerra.fr)
 
 
