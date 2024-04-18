@@ -1,13 +1,14 @@
 # 👋 Bonjour, je suis Walid Bouguerra
 
-## 🖥 Développeur Full Stack
+## 🖥 Développeur Full Stack Java/React
 
 <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"> 
 
 ### 🎓 Diplômes :
-- Titre professionnel Concepteur Développeur d'Applications  
-- BTS services informatiques aux organisations (SIO SLAM)
-- Baccalauréat scientifique
+- BAC+5 : Développeur Full-Stack Java/Angular (en recherche d'alternance)
+- BAC+3/4 : Titre professionnel Concepteur Développeur d'Applications  
+- BAC+2 : BTS services informatiques aux organisations (SIO SLAM)
+- BAC S : Baccalauréat scientifique
 
 ### 🛠 Compétences : 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,java,spring,react&theme=light)](https://skillicons.dev)
